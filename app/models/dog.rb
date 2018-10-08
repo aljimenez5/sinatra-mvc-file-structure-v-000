@@ -1,4 +1,6 @@
-class Dog < Sinatra::Base
+class Dog
+  
+  attr_accessor
   
   
   
