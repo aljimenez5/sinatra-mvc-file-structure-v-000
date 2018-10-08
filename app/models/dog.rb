@@ -7,6 +7,6 @@ class Dog
     @name = name
     @age = age
     @breed = breed
-  
+  end  
   
 end
